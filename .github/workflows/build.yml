@@ -48,4 +48,4 @@ jobs:
         file: ${{ github.workspace }}/dist/worker.js
         asset_name: worker.js
         tag: ${{ github.ref }}
-        overwrite: true
+        overwrite: true 
